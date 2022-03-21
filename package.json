@@ -1,5 +1,5 @@
 {
-  "name": "node-gridnet",
+  "name": "@redrobotsl/node-gridnet",
   "version": "0.0.1",
   "description": "A Wrapper for the Gridnet API",
   "main": "index.js",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+github.com/redrobotsl/node-gridnet.git"
+    "url": "git+https://github.com/redrobotsl/node-gridnet.git"
   },
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"

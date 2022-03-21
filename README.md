@@ -5,7 +5,7 @@ A unofficial interface for interacting with the Nexus Gridnet API in Second Life
 ## Install
 
 ```bash
-npm install --save @redrobot/node-gridnet
+npm install --save @redrobotsl/node-gridnet@0.0.1
 ```
 
 
