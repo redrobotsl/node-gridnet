@@ -12,6 +12,13 @@
     "nexus",
     "second-life"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+github.com/redrobotsl/node-gridnet.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
   "author": "Jacob Fear",
   "license": "MIT",
   "dependencies": {
