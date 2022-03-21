@@ -1,0 +1,22 @@
+{
+  "name": "node-gridnet",
+  "version": "0.0.1",
+  "description": "A Wrapper for the Gridnet API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "gridnet",
+    "nexus",
+    "second-life"
+  ],
+  "author": "Jacob Fear",
+  "license": "MIT",
+  "dependencies": {
+    "@sapphire/time-utilities": "^1.7.2",
+    "axios": "^0.26.1",
+    "colorette": "^2.0.16"
+  }
+}
