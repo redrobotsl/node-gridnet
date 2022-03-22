@@ -1,6 +1,6 @@
 # node-gridnet
 
-[![Known Vulnerabilities](https://snyk.io/test/github/redrobotsl/node-gridnet/badge.svg)]
+![Known Vulnerabilities](https://snyk.io/test/github/redrobotsl/node-gridnet/badge.svg)
 
 
 
