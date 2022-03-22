@@ -1,4 +1,5 @@
 # node-gridnet
+[![Known Vulnerabilities](https://snyk.io/test/github/redrobotsl/node-gridnet/badge.svg)]
 NOTICE: NOT PRODUCTION READY. THIS HAS BEEN USED FOR RED ROBOT INTERNAL PROJECTS, HOWEVER, WE WILL BE ADDING STUFF IN A PUBLIC BETA TO MAKE THE LIBRARY COMPLETE AND HAVE MORE UTILITIES
 A unofficial interface for interacting with the Nexus Gridnet API in Second Life, includes utility functions for non direct API calls, such as preparing data in non standard forms that the API can't provide on it's own(eg, a list of all channels on the network). 
 
