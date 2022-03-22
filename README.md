@@ -4,6 +4,7 @@
 ![GitHub version](https://badge.fury.io/gh/redrobotsl%2Fnode-gridnet.svg)
 [![GitHub issues](https://img.shields.io/github/issues/redrobotsl/node-gridnet)](https://github.com/redrobotsl/node-gridnet/issues)
 [![GitHub license](https://img.shields.io/github/license/redrobotsl/node-gridnet)](https://github.com/redrobotsl/node-gridnet)
+![Discord](https://img.shields.io/discord/747255363413213270)
 
 NOTICE: NOT TRULY PRODUCTION READY. THIS HAS BEEN USED FOR RED ROBOT INTERNAL PROJECTS, HOWEVER, WE WILL BE ADDING STUFF IN A PUBLIC DEVELOPMENT TO MAKE THE LIBRARY COMPLETE AND HAVE MORE UTILITIES ADDED
 
